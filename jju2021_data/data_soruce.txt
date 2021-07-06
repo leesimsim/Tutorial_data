@@ -1,0 +1,15 @@
+img_classifcation
+- 데이터 출처 : (주)디파인
+- 데이터 사이즈 : 110 x 110
+- 데이터 개수 : 
+	train : 400
+	test : 80
+
+obj_detection
+- 데이터 출처 : car object detection(https://www.kaggle.com/sshikamaru/car-object-detection)
+- 데이터 사이즈 : 676 x 380 
+- 데이터 개수 : 
+	train : 281
+	validation : 74
+	test : 50
+	addtional image : 5 
