@@ -1,7 +1,7 @@
 # jjuniv2021
 The dataset for Deep-learning lecture in Jeju university in 2021
 
-##Detail of each data
+## Detail of each data
 <b>img_classification</b>
 - data authorship : Defien corporation
 - data shape : 110 x 110
