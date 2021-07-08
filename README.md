@@ -9,7 +9,7 @@ The dataset for Deep-learning lecture in Jeju university in 2021
   + train : 400
   + test : 80
 
-<b>objectdetection</b>
+<b>obj_detection</b>
 - data authorship : Edward Zhang
 - data source link : car object detection(https://www.kaggle.com/sshikamaru/car-object-detection)
 - data shape : 676 x 380
@@ -20,4 +20,6 @@ The dataset for Deep-learning lecture in Jeju university in 2021
   + addtional image : 5
 
 <b>Addtional data</b>
- - example.mp4 (authorship : Define corporation)
+ - example.mp4
+    + authorship : Define corporation
+    + purpose : detect car driving on the road by applying yolo v5 model 
