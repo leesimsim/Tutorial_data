@@ -3,11 +3,12 @@ The dataset for Deep-learning lecture in Jeju university in 2021
 
 ## Detail of each data
 <b>img_classification</b>
-- data authorship : Define corporation
-- data shape : 110 x 110
-- data configuration
-  + train : 400
-  + test : 80
+- parking
+  + data authorship : Define corporation
+  + data shape : 110 x 110
+  + data configuration
+    * train : 400
+    * test : 80
 
 <b>obj_detection</b>
 - data authorship : Edward Zhang
