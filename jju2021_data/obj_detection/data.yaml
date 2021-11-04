@@ -1,4 +1,0 @@
-names: [class_name]
-nc: the_number_of_class
-train: train_images_dir
-val: valid_images_dir
